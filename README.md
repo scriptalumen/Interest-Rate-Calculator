@@ -11,5 +11,5 @@ Practicing HTML, CSS and JavaScript skills by coding a program to calculate inte
    
 **Run the HTML file:**
  - Use the "cd" command to go to the directory where your HTML file is located.
- - Type "start" <filename>.html (Windows) or "open" <filename>.html (Mac) or "xdg-open" <filename>.html (Linux) and press Enter. 
+ - Type "start + filename.html" (Windows) or "open" <filename>.html (Mac) or "xdg-open" <filename>.html (Linux) and press Enter. 
 This will open your HTML file in your default web browser.
