@@ -3,7 +3,7 @@ Practicing HTML, CSS and JavaScript skills by coding a program to calculate inte
 
 
 
-## Note: To run the code using vs code, do the following steps.
+### Note: To run the code using vs code, do the following steps.
 
 
 **Open the terminal:**
