@@ -2,7 +2,10 @@
 Practicing HTML, CSS and JavaScript skills by coding a program to calculate interest rates.
 
 
+
 **Note:** To run the code using vs code, do the following steps.
+
+
 Open the terminal:
  - Go to "View > Terminal" or press "Ctrl+Shift+` ".
 Run the HTML file:
