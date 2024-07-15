@@ -1,7 +1,7 @@
 # Interest-Rate-Calculator
 Practicing HTML, CSS and JavaScript skills by coding a program to calculate interest rates.
 
-Overall, this code provides a simple web-based tool to calculate the interest earned on a deposit over a specified number of years at a given interest rate.
+**Description of code usage:** Overall, this code provides a simple web-based tool to calculate the interest earned on a deposit over a specified number of years at a given interest rate.
 
 
 
